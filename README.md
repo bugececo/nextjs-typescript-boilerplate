@@ -1,4 +1,4 @@
-# NextJS + TypeScript Boilerplace
+# NextJS + TypeScript Boilerplate
 
 Supporting next-i18next and SSR
 
